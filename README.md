@@ -1,3 +1,6 @@
+# This is the Screenshot of the Pokemon App
+<img width="1470" alt="Screenshot 2022-11-05 at 1 27 13 PM" src="https://user-images.githubusercontent.com/53470896/200109975-5dab3f72-8634-41c6-a70c-7e7d81709002.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
